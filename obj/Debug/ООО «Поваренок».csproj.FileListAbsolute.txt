@@ -1,0 +1,26 @@
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\bin\Debug\ООО «Поваренок».exe.config
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\bin\Debug\ООО «Поваренок».exe
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\bin\Debug\ООО «Поваренок».pdb
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\obj\Debug\ООО__Поваренок_.Forms.AuthorizationForm.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\obj\Debug\ООО__Поваренок_.Properties.Resources.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\obj\Debug\ООО «Поваренок».csproj.GenerateResource.Cache
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\obj\Debug\ООО «Поваренок».exe
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\obj\Debug\ООО «Поваренок».pdb
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\obj\Debug\ООО__Поваренок_.Forms.CapthaForm.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\obj\Debug\ООО__Поваренок_.Forms.ViewProductForm.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\obj\Debug\ООО__Поваренок_.Forms.FilterForm.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\bin\Debug\UsersComponents\PoductsImage\B736H6.jpg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\bin\Debug\UsersComponents\PoductsImage\D735T5.jpg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\bin\Debug\UsersComponents\PoductsImage\E732R7.jpg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\bin\Debug\UsersComponents\PoductsImage\F573T5.jpg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\bin\Debug\UsersComponents\PoductsImage\G387Y6.jpg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\bin\Debug\UsersComponents\PoductsImage\H384H3.jpg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\bin\Debug\UsersComponents\PoductsImage\K437E6.jpg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\bin\Debug\UsersComponents\PoductsImage\R836H6.jpg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\bin\Debug\UsersComponents\PoductsImage\T793T4.jpg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\bin\Debug\UsersComponents\PoductsImage\А112Т4.jpg
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\obj\Debug\ООО__Поваренок_.Forms.OrderForm.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\obj\Debug\ООО__Поваренок_.Forms.AdminForm.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\obj\Debug\ООО__Поваренок_.Forms.ManegerForm.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\bin\Debug\UsersComponents\Tickets\Шаблон.docx
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\Дем. экзамен\ООО «Поваренок»\obj\Debug\ООО «Поваренок».csprojResolveAssemblyReference.cache
